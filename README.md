@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @AlexGvardeec
+- 👋 Hi, I’m Alexander
+Many people know me as @AlexGvardeec
   
 - 👀 I’m interested in:
       * BMX (Bicycle Moto Extreme)
@@ -12,9 +13,7 @@
     
 - 📫 How to reach me:
   mail: zeaglot@yandex.ru
-
-- 😄 Pronouns: ...
-
+  
 - ⚡ Facts: 
     * I have MBA education
     * I'm 5-times current BMX champion in my region
