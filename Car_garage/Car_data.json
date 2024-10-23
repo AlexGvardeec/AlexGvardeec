@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Lada",
+        "color": "red",
+        "price": "2000000"
+    },
+    {
+        "name": "Kia",
+        "color": "black",
+        "price": "2500000"
+    },
+    {
+        "name": "Mazda",
+        "color": "grey",
+        "price": "3500000"
+    },
+    {
+        "name": "VW",
+        "color": "white",
+        "price": "6000000"
+    },
+    {
+        "name": "Audi TT",
+        "color": "yellow",
+        "price": "20000000"
+    }
+]
