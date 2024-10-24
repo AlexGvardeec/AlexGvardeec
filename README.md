@@ -2,13 +2,12 @@
 Many people know me as @AlexGvardeec
   
 - 👀 I’m interested in:
-      * BMX (Bicycle Moto Extreme)
+      * Family
+      * BMX
       * Cooking
-      * Financial education
-      * Python education
   
-- 🌱 I’m currently learning:
-  * Python language for begginers
+- 🌱 I’m currently studying:
+  * Python language
   * ML basics
     
 - 📫 How to reach me:
