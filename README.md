@@ -1,20 +1,13 @@
-- 👋 Hi, I’m Alexander
-Many people know me as @AlexGvardeec
+👋 Hi, I’m Alexander
+(also known as @AlexGvardeec)
   
-- 👀 I’m interested in:
-      * Family
-      * BMX
-      * Cooking
+👀 I’m interested in: Family, BMX & Cooking
   
-- 🌱 I’m currently studying:
-  * Python language
-  * ML basics
+🌱 I’m currently studying: Python language & ML basics
     
-- 📫 How to reach me:
-  mail: zeaglot@yandex.ru
+📫 Mail: zeaglot@yandex.ru
   
-- ⚡ Facts: 
-    * I have MBA education
-    * I'm 5-times current BMX champion in my region
-    * Like learning new
-    * Interested in solving tasks/problems
+⚡ Facts: 
+1) I have MBA education,
+2) I'm 5-times current BMX champion in my region,
+3) Like learning new
