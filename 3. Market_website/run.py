@@ -1,6 +1,8 @@
-from flask import Flask
-app = Flask(__name__)
+from webapp import app, db
 
-@app.route('/')
-def hello_world():
-    return 'Hello world!'
+# Создаем базу данных db (или подключаемся к ней)
+# и запускаем приложение с циклом обработки событий
+if __name__ == '__main__':
+    with app.app_context():
+        db.create_all()
+    app.run(debug=True)
